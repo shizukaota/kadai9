@@ -94,11 +94,10 @@ main{
   }
 
   .step-box {
-    float:left;
-    width: 100%;
-    margin-right: 0px;
-    padding: 10px;
-    position: relative;
+    float:none;
+    width: 90%;
+    margin: 0 auto;
     border: 1px solid #eee;
 }
+
 }
